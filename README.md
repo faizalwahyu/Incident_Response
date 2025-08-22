@@ -1,9 +1,5 @@
 # Incident_Response
 
-Berikut adalah draf untuk file README.md yang dapat Anda sertakan bersama skrip Anda:
-
-README.md
-
 Otomatisasi Pengumpulan Data untuk Respons Insiden (IR)
 
 Pengenalan
