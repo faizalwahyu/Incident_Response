@@ -1,7 +1,5 @@
 # Incident_Response
 
-Tentu, saya dapat membuatkan README yang menjelaskan tentang Incident Response (IR) dan bagaimana skrip ini dapat digunakan sebagai bagian dari proses tersebut.
-
 Berikut adalah draf untuk file README.md yang dapat Anda sertakan bersama skrip Anda:
 
 README.md
